@@ -1,2 +1,2 @@
 # java-intro
-this is my first java repositary
+This is my first java repositary
