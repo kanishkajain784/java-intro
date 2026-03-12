@@ -1,4 +1,4 @@
-public class operat {
+public class operator {
   public static void main(String[] args) {
     int x = 10;
     int y = 3;
@@ -16,4 +16,5 @@ public class operat {
     System.out.println(z); // 5
   }
 }
+
 
